@@ -1,0 +1,6 @@
+LIBRARY CalendarTray
+
+EXPORTS
+
+InstallWindowsHook	@1
+UnInstallWindowsHook	@2
